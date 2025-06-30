@@ -15,7 +15,7 @@ export const PROJECTS = [
     title: "AI Construction Management System",
     image: project1,
     description:
-      "AI-driven construction management leverages artificial intelligence to optimize planning, resource allocation, risk assessment, and on-site operations. It enables real-time monitoring, predictive analytics for project timelines, cost management, and automated decision-making. By using machine learning models, AI can improve safety, streamline workflows, and ensure sustainable practices, ultimately enhancing efficiency and reducing costs in construction projects.",
+      "AI-driven construction management leverages artificial intelligence to optimize planning, resource allocation, risk assessment, and on-site operations. It enables real-time monitoring and predictive analytics for project timelines, cost management, and automated decision-making. By using machine learning models, AI can improve safety, streamline workflows, and ensure sustainable practices, ultimately enhancing efficiency and reducing costs in construction projects.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
