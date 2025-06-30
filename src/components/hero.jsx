@@ -12,7 +12,7 @@ const Hero = () => {
                     Full Stack Developer
                 </span>
                 <p className='my-2 max-w-xl py-6 font-light tracking-tighter'>
-                Pursuing a B.Tech in Computer Science Engineering and a B.Sc. in AIML. Passionate about programming, I continuously seek challenges to refine my skills and excel in software development. As a Full Stack Developer, I specialize in building scalable web applications using the latest technologies.
+                Pursuing a B.Tech in Computer Science Engineering and a B.Tech in AIML. Passionate about programming, I continuously seek challenges to refine my skills and excel in software development. As a Full Stack Developer, I specialize in building scalable web applications using the latest technologies.
                 </p>
             </div>
 
