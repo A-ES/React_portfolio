@@ -1,4 +1,4 @@
-import pfp from "/Users/user/Documents/React-portfolio/src/assets/IMG_6206.jpg"
+import pfp from "../assets/IMG_6206.jpg"
 const Hero = () => {
   return (
     <div className='border-b border-neutral-900 pb-4 lg:mb-35'>
