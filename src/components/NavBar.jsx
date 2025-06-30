@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '/Users/user/Documents/React-portfolio/src/assets/ce9150df-7633-473b-b4f9-27ad1bbe067b.png';
+import logo from '../assets/ce9150df-7633-473b-b4f9-27ad1bbe067b.png';
 
 import { FaLinkedin } from 'react-icons/fa';
 import { FaGit } from 'react-icons/fa';
